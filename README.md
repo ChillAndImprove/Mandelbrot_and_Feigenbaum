@@ -18,8 +18,8 @@ What is a Mandelbrot Set?
 ![Alt Text](https://s4.gifyu.com/images/Feigenbrot.gif) 
 
 
-**Prerequisites:**
+**Prerequisites:**</br>
 - At least >=QT 5.14.0
 
-**How to compile:**
+**How to compile:** </br>
 If you have the QT Creator installed, than this will be a piece of cake. All you have to do is to double click on KomplexeZahlen.pro and you are good to go.
