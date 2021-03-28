@@ -14,7 +14,7 @@ What is a Mandelbrot Set?
 >>Images of the Mandelbrot set exhibit an elaborate and infinitely complicated boundary that reveals progressively ever-finer recursive detail at increasing magnifications, making the boundary of the Mandelbrot set a fractal curve. The "style" of this repeating detail depends on the region of the set being examined. Mandelbrot set images may be created by sampling the complex numbers and testing, for each sample point {\displaystyle c}c, whether the sequence {\displaystyle f_{c}(0),f_{c}(f_{c}(0)),\dotsc }{\displaystyle f_{c}(0),f_{c}(f_{c}(0)),\dotsc } goes to infinity. Treating the real and imaginary parts of {\displaystyle c}c as image coordinates on the complex plane, pixels may then be coloured according to how soon the sequence {\displaystyle |f_{c}(0)|,|f_{c}(f_{c}(0))|,\dotsc }{\displaystyle |f_{c}(0)|,|f_{c}(f_{c}(0))|,\dotsc } crosses an arbitrarily chosen threshold. If {\displaystyle c}c is held constant and the initial value of {\displaystyle z}z is varied instead, one obtains the corresponding Julia set for the point {\displaystyle c}c.
 
 
-Look:
-![Alt Text](https://s4.gifyu.com/images/Feigenbrot.gif)
+Look:</br>
+![Alt Text](https://s4.gifyu.com/images/Feigenbrot.gif| width=50) 
 
 
