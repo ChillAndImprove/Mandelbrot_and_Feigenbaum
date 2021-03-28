@@ -15,6 +15,6 @@ What is a Mandelbrot Set?
 
 
 Look:</br>
-![Alt Text](https://s4.gifyu.com/images/Feigenbrot.gif| width=50) 
+![Alt Text](https://s4.gifyu.com/images/Feigenbrot.gif) 
 
 
