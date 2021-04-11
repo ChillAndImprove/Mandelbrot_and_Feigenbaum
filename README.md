@@ -1,6 +1,4 @@
 # Mandelbrot and Feigenbaum Constant
-In this repository a program is shown which was inspired by Numberphile.
-
 
 This video explains the Feigenbaum constant very well. <br/>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ETrYE4MdoLQ/0.jpg)](https://www.youtube.com/watch?v=ETrYE4MdoLQ) <br/>
