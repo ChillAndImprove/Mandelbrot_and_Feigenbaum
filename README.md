@@ -2,7 +2,7 @@
 
 This video explains the Feigenbaum constant very well. <br/>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ETrYE4MdoLQ/0.jpg)](https://www.youtube.com/watch?v=ETrYE4MdoLQ) <br/>
-A program was written which represents the Feigenbaum constant. In addition to that, there is also an Mandelbrot set.
+A program was written which represents the Feigenbaum constant. In addition to that, there is also a Mandelbrot set.
 
 
 **What is a Feigenbaum constant?**
